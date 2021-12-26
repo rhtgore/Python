@@ -1,0 +1,10 @@
+Pandas
+dataframe
+series
+loc, iloc
+read_csv
+groupby
+value_count
+datetime
+date_range
+year, month, day, hour, second
